@@ -1,0 +1,22 @@
+.text-red {
+  color: green;
+  text-align: center;
+  font-size: medium;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-triangle-exclamation::before {
+  content: "\f071";
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-red {
+  color: green;
+  text-align: center;
+}
